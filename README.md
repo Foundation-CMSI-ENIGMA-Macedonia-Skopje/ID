@@ -1,2 +1,6 @@
 # ID
-who you are,  what the Foundation does,  high-level mission,  mission alignment with EIT HEI.
+- Who we are
+- What we do
+- High-level mission
+- Mission alignment with EIT HEI.
+...
